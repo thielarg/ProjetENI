@@ -4,5 +4,5 @@ public class Essai {
 
 	private String nom;
 	private String prenom;
-	
+	private String ville;
 }
